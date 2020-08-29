@@ -1,3 +1,3 @@
 # Information
 
-Repository for contacting me. Please post messages using [issues](issues).
+Repository for contacting me. Please post messages using [issues](./issues).
