@@ -1,3 +1,3 @@
 # Information
 
-Repository for contacts. Please post messages using [**issues**](../../issues).
+Repository for contacts. Please post messages using [issues](../../issues).
